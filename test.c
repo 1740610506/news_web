@@ -38,7 +38,7 @@ int rawdata_to_little_endian(uint8_t *origindata,
             }
         }
     } while (0);
-  ...
+  ...1
 
     return 0;
 }
